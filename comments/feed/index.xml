@@ -8,7 +8,7 @@
 <channel>
 	<title>
 	Comments for my-blog	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	<atom:link href="/myblog/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description></description>
 	<lastBuildDate>Wed, 03 Apr 2024 06:42:04 +0000</lastBuildDate>
